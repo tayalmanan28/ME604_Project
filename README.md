@@ -7,7 +7,7 @@ A Kuka arm is dancing with a determined trajectory.
 ## Installation
 
 ```bash
-git clone https://github.com/rainorangelemon/Pybullet-Kuka
+git clone https://github.com/tayalmanan28/ME604_Project
 cd Pybullet-Kuka
 # for conda users
 conda create -n kuka python=3.8
